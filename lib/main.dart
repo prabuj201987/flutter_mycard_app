@@ -70,7 +70,7 @@ class MyCardApp extends StatelessWidget {
                       color: Colors.teal,
                     ),
                     title: Text(
-                      'angela@email.com',
+                      'prabu@email.com',
                       style: TextStyle(
                           fontSize: 20.0,
                           color: Colors.teal.shade900,
